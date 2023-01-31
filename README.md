@@ -5,3 +5,6 @@ or if the inputed no. is 5
 then output will 120
  explanation -
  5 * 4* 3* 2* 1 = 120
+
+// second program is of armstrong 
+and for that i have written test cases
